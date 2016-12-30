@@ -1,7 +1,6 @@
 % main program to run the demo of Gibbs sampling for LDA learning
 %
-% Copyright (C) 2009 Xiaodong Yu, xdyu at umiacs umd edu;
-% distributable under GPL, see README.txt
+
 
 gen_images;
 
