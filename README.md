@@ -22,6 +22,8 @@
 
 **Final Phi Iteration**
 
+**After final Iteration, the Topics discovered were:**
+
 ![image](https://cloud.githubusercontent.com/assets/15040734/21571338/4cda5546-cef4-11e6-8bb5-11dfffd4a19c.png)
 
 It contains the following functions:
